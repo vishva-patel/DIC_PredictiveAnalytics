@@ -1,7 +1,7 @@
 # Project 1
 ## Predictive Analytics
 
-Implemented Machine Learning algorithms: Random Forest, K-Nearest Neighbor, K-Means Clustering, PCA to explore Predictive Analytics on various datasets
+### Implemented Machine Learning algorithms: Random Forest, K-Nearest Neighbor, K-Means Clustering, PCA to explore Predictive Analytics on various datasets
 
 CSE 487/587 Assignment 1:Predictive Analytics
 
