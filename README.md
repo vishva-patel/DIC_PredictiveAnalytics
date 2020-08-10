@@ -11,9 +11,13 @@ Scikit-learn predictive analytics pipeline and perform visualization using Matpl
 
 ### PART - 1
 Implementation of Machine Learning Algorithms
+
 ● Implement Supervised Learning algorithms K-NearestNeighbour and Random Forest
+
 ● Implement Dimensionality Reduction using PCA
+
 ● Implement K-Means Clustering
+
 ● Implement Evaluation measure Accuracy, Recall, Precision, Within cluster Sum of
 squares
 
